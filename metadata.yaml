@@ -1,0 +1,30 @@
+_repo: A-Saudade--Canto-elegiaco_24846
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coutinho, Henrique Ernesto de Almeida
+    aliases:
+    - Coutinho, Henrique Ernesto d'Almeida
+    - Almeida Coutinho, Henrique Ernesto de
+    birthdate: 1788
+    deathdate: 1868
+    gutenberg_agent_id: '25894'
+    url: http://www.gutenberg.org/2009/agents/25894
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2008-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24846'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese poetry'
+- !lcc 'PQ'
+title: 'A Saudade: Canto elegiaco'
+url: http://www.gutenberg.org/ebooks/24846
